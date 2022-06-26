@@ -1,0 +1,48 @@
+body{
+  direction: rtl;
+}
+.d{
+  text-decoration:none;
+  display: block;
+  background-color: yellow;
+  color: red;
+  text-align : center;
+  border: 5px solid black;
+  margin: 10px 35% 10px 35%;
+  border-radius: 10px;
+}
+.d1{
+  text-align : center;
+  display: block;
+}
+.m{
+  font-size: 20px;
+  display: block;
+  background-color: #ffa;
+  width: 100%;
+  height: 50%;
+  text-align : center;
+  margin-top: 50px
+  bolder: 10px solid red;
+}
+.mapna{
+  display: block;
+  width: 150px;
+height: auto;
+margin-left: auto;
+  margin-right: auto;
+  clear: both;
+}
+.in{
+  background-color: yellow;
+  display: block;
+width: 20px;
+
+}
+.n{
+  font-size: 20px;
+  text-align: right;
+  margin-top: 10px;
+  margin-right: 20px;
+  padding: 10px;
+}
